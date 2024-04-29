@@ -21,47 +21,47 @@
 				},
 				{
 					"slug": "primary",
-					"color": "#0000EE",
+					"color": "#00607A",
 					"name": "Primary"
 				},
 				{
 					"slug": "secondary",
-					"color": "#00FFFF",
+					"color": "#F9C9EF",
 					"name": "Secondary"
 				},
 				{
 					"slug": "tertiary",
-					"color": "#00FFFF",
+					"color": "#F7CAB6",
 					"name": "Tertiary"
 				},
 				{
 					"slug": "quaternary",
-					"color": "#00FFFF",
+					"color": "#FDF5F1",
 					"name": "Quaternary"
 				},
 				{
 					"slug": "quinary",
-					"color": "#00FFFF",
+					"color": "#ED8CDF",
 					"name": "Quinary"
 				},
 				{
 					"slug": "senary",
-					"color": "#00FFFF",
+					"color": "#85EACC",
 					"name": "Senary"
 				},
 				{
 					"slug": "septenary",
-					"color": "#00FFFF",
+					"color": "#DAFE86",
 					"name": "Septenary"
 				},
 				{
 					"slug": "octonary",
-					"color": "#00FFFF",
+					"color": "#F1A17E",
 					"name": "Octonary"
 				},
 				{
 					"slug": "nonary",
-					"color": "#00FFFF",
+					"color": "#E3DFDD",
 					"name": "Nonary"
 				},
 				{
@@ -91,7 +91,7 @@
 				"2": "0px 3px 10px rgba(33, 33, 33, 0.25)"
 			},
 			"color": {
-				"link" : "#0000EE",
+				"link" : "#00607A",
 				"neutral-50": "#FAFAFA",
 				"neutral-100": "#F5F5F5",
 				"neutral-200": "#EEEEEE",
@@ -145,12 +145,12 @@
 			"letterSpacing": false,
 			"fontFamilies": [
 				{
-					"fontFamily": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+					"fontFamily": "DMSerifDisplay-Regular",
 					"name": "System Sans Serif",
 					"slug": "system-sans-serif"
 				},
 				{
-					"fontFamily": "-apple-system-ui-serif, ui-serif, Noto Serif, Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+					"fontFamily": "DMSerifDisplay-Regular",
 					"name": "System Serif",
 					"slug": "system-serif"
 				}
